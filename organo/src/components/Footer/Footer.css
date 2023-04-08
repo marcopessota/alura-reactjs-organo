@@ -1,0 +1,23 @@
+.footer{    
+    background-color: #6278F7;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    height: 230px;
+}
+
+.footer img.bg{
+    width: 100%;
+}
+
+.footer .socialWrapper a img{
+    width: 30px;
+}
+.text-white{
+    color: #fff;
+}
+
+.mx-2{
+    margin-left: 15px;
+    margin-right: 15px;
+}

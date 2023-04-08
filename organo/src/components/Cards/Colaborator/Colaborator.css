@@ -1,0 +1,44 @@
+.colaborator{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+}
+
+.colaborator .header{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 100%;
+    height: 91px;
+}
+
+.colaborator .body{
+    width: 100%;
+    background-color: #fff;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.colaborator .body img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    position: relative;
+    transform: translateY(-3em);
+}
+
+.colaborator .body .content{
+    position: relative;
+    transform: translateY(-30px);
+}
+
+.colaborator .body .content .name{
+    margin-bottom: 10px;
+    color: #6278F7
+}
+
+.colaborator .body .content .job{
+    position: relative;    
+    
+}

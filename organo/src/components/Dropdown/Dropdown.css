@@ -1,0 +1,24 @@
+.dropdown *{
+    font-family: 'Montserrat';
+}
+
+div.dropdown{
+    margin-bottom: 20px;
+}
+
+.dropdown label{
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #212121;
+    font-size: 18px;
+}
+
+.dropdown select{
+    background-color: #FFF;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    padding: 24px 50px 24px 24px;
+    width: 100%;
+    box-sizing: border-box;
+}

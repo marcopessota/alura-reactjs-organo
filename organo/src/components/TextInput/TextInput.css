@@ -1,0 +1,24 @@
+.text-input *{
+    font-family: 'Montserrat';
+}
+
+div.text-input{
+    margin-bottom: 20px;
+}
+
+.text-input label{
+    display: block;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: #212121;
+    font-size: 18px;
+}
+
+.text-input input{
+    background-color: #FFF;
+    border: none;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    padding: 24px;
+    width: 100%;
+    box-sizing: border-box;
+}
